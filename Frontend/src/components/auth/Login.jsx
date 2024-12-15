@@ -1,4 +1,4 @@
-import NavBar from '@/shared/Navbar';
+import NavBar from '../shared/NavBar';
 import { Input } from '../ui/input';
 import { Label } from '../ui/label';
 import React, { useState } from 'react';

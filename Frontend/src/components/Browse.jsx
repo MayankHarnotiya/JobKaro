@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import NavBar from '@/shared/Navbar'
+import NavBar from './shared/NavBar'
 import Job from './Job'
 import { useDispatch, useSelector } from 'react-redux'
 import { setSearchedQuery } from '@/redux/jobSlice'

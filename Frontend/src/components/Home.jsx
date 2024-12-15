@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import NavBar from '@/shared/Navbar'
+import NavBar from './shared/NavBar'
 import HeroSection from './HeroSection'
 import CategoryCarousel from './CategoryCarousel'
 import LatestJobs from './LatestJobs'

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import NavBar from '@/shared/Navbar';
+import NavBar from './shared/NavBar';
 import { Avatar, AvatarImage } from './ui/avatar';
 import { Button } from './ui/button';
 import { Badge } from './ui/badge'; // Make sure the path is correct
